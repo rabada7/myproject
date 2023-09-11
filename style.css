@@ -4,8 +4,11 @@ body{
     margin: 0;
     padding: 0;
 }
-h1{
-    font-weight: bolder;
+header{
+    background-color: black;
+    color:  #fff ;
+    text-align: center;
+    padding: 20px;
 }
 img{
     max-width: 200px;
@@ -14,7 +17,6 @@ p{
     font-weight: bolder;
 }
 .container{
-    
     margin: 20px auto;
     padding: 20px;
     background-color: #fff;
@@ -22,11 +24,11 @@ p{
 }
 
 
-.footer{
+footer{
     background-color: black;
     text-align: center;
     padding: 20px;
 }
-.footer a{
+footer a{
     color:  #fff ;
 }
