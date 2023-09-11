@@ -4,11 +4,8 @@ body{
     margin: 0;
     padding: 0;
 }
-header{
-    background-color: black;
-    color:  #fff ;
-    text-align: center;
-    padding: 20px;
+h1{
+    font-weight: bolder;
 }
 img{
     max-width: 200px;
@@ -25,14 +22,11 @@ p{
 }
 
 
-.data-item label{
-  font-weight: bolder;
-}
-footer{
+.footer{
     background-color: black;
     text-align: center;
     padding: 20px;
 }
-footer a{
+.footer a{
     color:  #fff ;
 }
