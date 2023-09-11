@@ -10,6 +10,9 @@ header{
     text-align: center;
     padding: 20px;
 }
+label{
+    font-weight: bolder;
+}
 img{
     max-width: 200px;
 }
