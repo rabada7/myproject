@@ -1,6 +1,6 @@
 body{
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: burlywood;
     margin: 0;
     padding: 0;
 }
@@ -15,6 +15,7 @@ label{
 }
 img{
     max-width: 200px;
+    border-radius: 50%;
 }
 p{
     font-weight: bolder;
@@ -24,14 +25,10 @@ p{
     padding: 20px;
     background-color: #fff;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5%;
+    max-width: 800px;
 }
-
-
-footer{
-    background-color: black;
-    text-align: center;
-    padding: 20px;
-}
-footer a{
-    color:  #fff ;
+ a{
+    color: aquamarine;
+    font-weight: 700;
 }
